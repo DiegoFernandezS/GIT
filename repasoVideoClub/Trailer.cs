@@ -21,6 +21,6 @@ namespace repasoVideoClub
         public string GetUrl() => this.url;
         public int GetDuracionSeg() => this.duracionSeg;
         public void SetUrl(string url) => this.url = url;
-        public void SetDuracionSeg(int duracionSeg) => this.duracionSeg = duracionSeg;
+        //public void SetDuracionSeg(int duracionSeg) => this.duracionSeg = duracionSeg;
     }
 }

@@ -49,9 +49,10 @@ namespace repasoVideoClub
 
         // punto iii)
 
-        public double CalcularCostoTotal()
-        {
-            return this.costoTotal = copiasPelicula.Count() * 80;
-        }
+        //public double CalcularCostoTotal()
+        //{
+          //  return this.costoTotal = copiasPelicula.Count() * 80;
+        //}
+
     }
 }
